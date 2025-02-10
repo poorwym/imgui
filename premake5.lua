@@ -16,7 +16,7 @@ project "ImGui"
         "imgui_internal.h",
         "imgui_widgets.cpp",
         "imstb_rectpack.h",
-        "imstb_textdit.h",
+        "imstb_textedit.h",
         "imstb_truetype.h",
         "imgui_demo.cpp",
         "imgui_tables.cpp"                --For the newly "table" functions which introduced form ImGui v1.73
